@@ -55,7 +55,7 @@
 [![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
 
 
-<img src="https://komarev.com/ghpvc/?username=RobertSkokic&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=riicor&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
 
 
 
