@@ -68,7 +68,7 @@
         <b>Drakengard 3</b>
       <td align="center" width="140">
         <img src="https://github.com/riicor/riicor/blob/main/assets/P5R_Key_Art.webp." width="120" /><br>
-        <b>Drakengard 3</b>
+        <b>Persona 5 Royal</b>
     
 
 </div>
