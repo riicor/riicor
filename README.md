@@ -56,7 +56,7 @@
         <b>NieR Replicant</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/riicorc/riicor/blob/main/assets/ffx.jpg" width="120" /><br>
+        <img src="https://github.com/riicor/riicor/blob/main/assets/ffx.jpg" width="120" /><br>
         <b>Final Fantasy X</b>
       </td>
       <td align="center" width="140">
