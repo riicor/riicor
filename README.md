@@ -17,7 +17,7 @@
 
 
 ---
-<h3 align="center">###👨‍🚀 The Coldrock Founders in Alphabetical Order
+<h3 align="center">👨‍🚀 The Coldrock Founders in Alphabetical Order
 </h3>
 
 <div align="center">
