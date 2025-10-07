@@ -17,13 +17,16 @@
 
 
 ---
+<h3 align="center">###👨‍🚀 The Coldrock Founders in Alphabetical Order
+</h3>
 
-### 👨‍🚀 The Coldrock Founders in Alphabetical Order
+<div align="center">
+
 
 | ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Grisgram](https://github.com/Grisgram.png?size=100) | ![@Hawk](https://github.com/MaxLab2002.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) |
 |:--:|:--:|:--:|:--:|
 | [@Breezy](https://github.com/RobertSkokic) | [@Grisgram](https://github.com/Grisgram) | [@Hawk](https://github.com/MaxLab2002) | [@Kiki](https://github.com/kikerikiki) | 
-
+</div>
 
 ---
 
