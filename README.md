@@ -56,7 +56,7 @@
         <b>NieR Replicant</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/riicorc/riicor/blob/main/assets//ffx.jpg" width="120" /><br>
+        <img src="https://github.com/riicorc/riicor/blob/main/assets/ffx.jpg" width="120" /><br>
         <b>Final Fantasy X</b>
       </td>
       <td align="center" width="140">
@@ -64,12 +64,13 @@
         <b>NieR Automata</b>
       </td>
       <td align="center" width="140">
-        <img src="https://github.com/riicor/riicor/blob/main/assets/drakenjpg." width="120" /><br>
+        <img src="https://github.com/riicor/riicor/blob/main/assets/draken.jpg" width="120" /><br>
         <b>Drakengard 3</b>
       <td align="center" width="140">
-        <img src="https://github.com/riicor/riicor/blob/main/assets/P5R_Key_Art.webp." width="120" /><br>
+        <img src="https://github.com/riicor/riicor/blob/main/assets/P5R_Key_Art.webp" width="120" /><br>
         <b>Persona 5 Royal</b>
-    
+   </tr>
+  </table>  
 
 </div>
 
