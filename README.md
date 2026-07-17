@@ -13,9 +13,8 @@
 <div align="center">
 
 
-| ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Grisgram](https://github.com/Grisgram.png?size=100) | ![@Hawk](https://github.com/MaxLab2002.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) |
-|:--:|:--:|:--:|:--:|
-| [@Breezy](https://github.com/RobertSkokic) | [@Kiki](https://github.com/kikerikiki) | 
+| ![@Breezy](https://github.com/RobertSkokic.png?size=100) | ![@Kiki](https://github.com/kikerikiki.png?size=100) |
+
 </div>
 
 ---
