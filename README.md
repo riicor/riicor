@@ -71,7 +71,7 @@
 ### 📫 Let’s connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rico-radosavljevic-6093a529a)  
-[![Website](https://img.shields.io/badge/-coldrock.games-black?style=flat-square&logo=google-chrome)](https://www.coldrock.games)
+
 
 
 <img src="https://komarev.com/ghpvc/?username=riicor&label=visits&color=FF4A4A&style=flat-square" alt="Profile Views" />
