@@ -1,17 +1,7 @@
-<p align="center">
-  <img src="https://github.com/RobertSkokic/RobertSkokic/blob/main/assets/banner.png" alt="Coldrock Banner" width="100%" />
-</p>
 
-<h1 align="center">Hi, I'm Rico – aka riicor aka RichardKichert 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=0&color=FF4A4A&center=true&vCenter=true&width=435&lines=Recruiter.+Designer.+Dreamer.;Apprentice+@+coldrock.games;HAVE+FUN!+MAKE+GAMES!" alt="Typing Animation" />
-</p>
-
----
 
 ### 🎮 About Me
 
-- 🎨 HR Raptor bei [coldrock.games](https://coldrock.games)
 - 💻 Recruiting, Photography and 2D/3D Art 
 - 🧠 FH Wien der WKW student in HRO
 
